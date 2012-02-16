@@ -1,0 +1,9 @@
+h1. C++ Symbol Demangler for node.js
+
+Mostly an experiment in cross platform node addons. It is small and has no dependencies. I'm going to use it to pretty-print symbol names from a gcov coverage analysis.
+
+h2. License
+
+MIT.
+
+

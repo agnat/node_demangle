@@ -1,0 +1,18 @@
+{ "name": "demangle"
+, "version": "0.0.0-dev"
+, "c++ symbol demangleing and pretty-printing"
+, "repository":
+  { "type": "git"
+  , "url":  "http://github.com/agnat/node_demangle.git"
+  }
+, "licenses": [
+    { "type": "MIT"
+    , "url": "http://github.com/agnat/node_demangle/raw/master/LICENSE"
+    }
+  ]
+, "author":
+  { "name":   "David Siegel"
+  , "email":  "david@artcom.de"
+  , "github": "agnat"
+  }
+}
